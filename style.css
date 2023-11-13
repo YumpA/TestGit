@@ -5,3 +5,8 @@ body {
 p {
     color: darkorchid;
 }
+
+h1 {
+    color: pink;
+    text-decoration: uppercase;
+}
